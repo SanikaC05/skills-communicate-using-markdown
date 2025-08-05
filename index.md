@@ -10,3 +10,10 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+
+### My Markdown Task List
+
+- [ ] Turn on GitHub Pages
+- [ ] Add an image
+- [ ] Add a code block
+- [ ] Finish GitHub Markdown course
